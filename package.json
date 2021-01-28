@@ -1,0 +1,14 @@
+{
+	"name": "Cr1ticalBot",
+	"version": "1.0",
+	"description": "A fun, moderation, and economy bot!",
+	"license": "MIT",
+	"repository": "shdwcr1tical/cr1ticalbot",
+	"author": {
+		"name": "SHDWCr1tical",
+		"email": "private",
+		"url": "none"
+	},
+	"files": [
+		"main.py"
+  ]}
