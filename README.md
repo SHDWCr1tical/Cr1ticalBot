@@ -1,5 +1,5 @@
 ![license](https://img.shields.io/badge/license-Apache%20License%202.0-blue?style=for-the-badge)
-![version](https://img.shields.io/github/package-json/v/SHDWCr1tical/Cr1ticalBot/)
+![version](https://img.shields.io/github/package-json/v/SHDWCr1tical/Cr1ticalBot?style=for-the-badge)
 
 
 # Imagination
