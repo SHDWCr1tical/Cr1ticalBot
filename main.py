@@ -51,4 +51,5 @@ async def credits(ctx):
     await ctx.send("Coded by: from Cr1tical import localidiot#1393")
 
 client.loop.create_task(ch_pr())
-client.run('Nzk5MTUxMjMzODIxOTY2Mzc2.X__ZlQ.Wczf5uQe_xcGKSKBi8zYDhFmB4o')
+client.run(EDIT THIS AND PUT YOUR TOKEN)
+print('Please edit this file and put your bot token to the above line in the code.')
