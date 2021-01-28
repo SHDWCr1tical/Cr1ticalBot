@@ -1,17 +1,17 @@
-![license](https://img.shields.io/badge/license-GNU%20GPL%203.0-blue?style=for-the-badge)
+![license](https://img.shields.io/badge/license-GNU%20GPL%203.0-blue?style=for-the-badge)()
 ![version](https://img.shields.io/github/package-json/v/SHDWCr1tical/CriticalBot)
 
 
 # Imagination
 
-Cr1tical is an open source Discord bot written in discord.py
+Imagination is an open source Discord bot written in discord.py
 
 ## Installation
 
 Use [git](https://git-scm.com/docs/git-clone) to install Imagination.
 
 ```bash
-git clone https://github.com/Cr1tical/Cr1ticalBot
+git clone https://github.com/Cr1tical/Imagination-Bot
 ```
 
 ## Usage
