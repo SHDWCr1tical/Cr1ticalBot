@@ -1,4 +1,4 @@
-![license](https://img.shields.io/badge/license-GNU%20GPL%203.0-blue?style=for-the-badge)()
+![license](https://img.shields.io/badge/license-GNU%20GPL%203.0-blue?style=for-the-badge)
 ![version](https://img.shields.io/github/package-json/v/SHDWCr1tical/CriticalBot)
 
 
