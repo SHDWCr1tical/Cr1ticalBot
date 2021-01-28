@@ -1,4 +1,4 @@
-![license](https://img.shields.io/badge/license-GNU%20GPL%203.0-blue?style=for-the-badge)
+![license](https://img.shields.io/badge/license-Apache%20License%202.0-blue?style=for-the-badge)
 ![version](https://img.shields.io/github/package-json/v/SHDWCr1tical/CriticalBot)
 
 
@@ -28,4 +28,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 ## License
-[GNU GPL V3.0](https://choosealicense.com/licenses/gpl-3.0/)
+[Apache License 2.0](https://choosealicense.com/licenses/apache-2.0/)
