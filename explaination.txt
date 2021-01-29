@@ -1,0 +1,2 @@
+So, quick explaination for the people who don't code in python. If you are saying that there is only one command, look in the commands folder. Those are the files
+for the commands. In main.py it imports the files for the bot to use.
