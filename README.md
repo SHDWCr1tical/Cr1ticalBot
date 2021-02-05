@@ -1,5 +1,5 @@
 ![license](https://img.shields.io/badge/license-Apache%20License%202.0-blue?style=for-the-badge)
-
+(This tutorial is linux only, please search for the commands of your respective OS)
 
 # Cr1tical
 
